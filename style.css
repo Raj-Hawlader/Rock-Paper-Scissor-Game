@@ -4,7 +4,7 @@
     text-align: center;
 }
 h1{
-    background-color: #88AB8E;
+    background-color: #4de0d9b9;
     
     padding: 1rem;
 }
@@ -16,7 +16,7 @@ h1{
 .choice:hover{
     
     cursor: pointer;
-    background-color: #88AB8E;
+    background-color: #4de0d9b9;
 }
 img{
     height: 150px;
@@ -47,7 +47,7 @@ img{
     
 }
 #msg{
-    background-color: #88AB8E;
+    background-color: #4de0d9b9;
     columns: white;
     display: inline;
     font-size: 1.8rem;
@@ -56,5 +56,5 @@ img{
 }
 
 body{
-    background-color: #f5ead5;
+    background-color: #4396aa;
 }
